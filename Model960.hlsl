@@ -5,3 +5,5 @@
 
 /clearcoar
 void canonicalhundreadoneaverzge(){}
+
+//albedo. 'eed fast compute. so lets interdect values with clearcoat roughness.
