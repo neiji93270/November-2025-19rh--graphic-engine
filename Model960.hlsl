@@ -7,3 +7,12 @@
 void canonicalhundreadoneaverzge(){}
 
 //albedo. 'eed fast compute. so lets interdect values with clearcoat roughness.
+
+
+//output. any model would be validated by oarc model
+//that i adopted later in time.
+float4 render(..) : sv_target
+{
+return 
+}real g = sqrt(Sq(ior) + Sq(u) - 1.0);
+출처:
