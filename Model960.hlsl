@@ -9,6 +9,16 @@ void canonicalhundreadoneaverzge(){}
 //albedo. 'eed fast compute. so lets interdect values with clearcoat roughness.
 
 
+
+
+//before the rendering process, we would use mainly sin(clearcoat)
+//as this is not a signal. in computational physics, we may have other models.
+//but to keep track of pro p groups and oarc model, this is nest
+//to overcome some.fjtur one model topologies anomalies. so we would use sin(clearcoat)
+//
+https://discord.com/channels/298214543782576139/1440031394058211479
+
+
 //output. any model would be validated by oarc model
 //that i adopted later in time.
 float4 render(..) : sv_target
